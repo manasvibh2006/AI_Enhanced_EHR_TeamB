@@ -1,0 +1,7 @@
+Patient: [2020-08-07, F]
+Chief Complaint: Shortness of breath
+History: Patient reports symptoms for several days. No severe complications noted.
+Examination Findings: Normal temperature, stable vitals, mild abnormal findings depending on symptom.
+Assessment: Acute Bronchitis
+Plan: Rest, fluids, medication as required, follow up in 3 days if symptoms persist.
+ICD-10 Code: J20.9

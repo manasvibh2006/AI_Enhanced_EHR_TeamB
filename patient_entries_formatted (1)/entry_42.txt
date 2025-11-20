@@ -1,0 +1,7 @@
+Patient: [2009-01-24, M]
+Chief Complaint: Headache
+History: Patient reports symptoms for several days. No severe complications noted.
+Examination Findings: Normal temperature, stable vitals, mild abnormal findings depending on symptom.
+Assessment: Migraine
+Plan: Rest, fluids, medication as required, follow up in 3 days if symptoms persist.
+ICD-10 Code: G43.909

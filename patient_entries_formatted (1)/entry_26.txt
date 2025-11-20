@@ -1,0 +1,7 @@
+Patient: [2020-08-07, F]
+Chief Complaint: Back pain
+History: Patient reports symptoms for several days. No severe complications noted.
+Examination Findings: Normal temperature, stable vitals, mild abnormal findings depending on symptom.
+Assessment: Muscle Strain
+Plan: Rest, fluids, medication as required, follow up in 3 days if symptoms persist.
+ICD-10 Code: M62.830
