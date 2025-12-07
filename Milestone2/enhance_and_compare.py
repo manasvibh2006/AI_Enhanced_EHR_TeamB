@@ -4,7 +4,7 @@ import numpy as np
 
 # ----------------- Folders ----------------- #
 
-INPUT_FOLDER = r"data/raw/"
+INPUT_FOLDER = r"C:\Users\Manasvi\OneDrive\Desktop\AI Enhanced ehr - final1\AI_Enhanced_EHR_TeamB\Milestone2\low_quality_sample"
 ENHANCED_FOLDER = r"milestone2_outputs/enhanced/"
 COMPARISON_FOLDER = r"milestone2_outputs/comparisons/"
 
