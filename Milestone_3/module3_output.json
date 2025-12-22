@@ -1,0 +1,160 @@
+[
+    {
+        "patient_id": "EHR001",
+        "age": 45,
+        "gender": "Male",
+        "symptoms": [
+            "fever",
+            "cough"
+        ],
+        "diagnosis": "Pneumonia",
+        "doctor_observations": "Persistent cough and high fever.",
+        "vitals": {
+            "bp": "130/85",
+            "heart_rate": "98 bpm"
+        },
+        "icd10_code": "J18.9"
+    },
+    {
+        "patient_id": "EHR002",
+        "age": 60,
+        "gender": "Female",
+        "symptoms": [
+            "fatigue",
+            "high blood sugar"
+        ],
+        "diagnosis": "Diabetes",
+        "doctor_observations": "Elevated glucose levels observed.",
+        "vitals": {
+            "bp": "140/90",
+            "heart_rate": "88 bpm"
+        },
+        "icd10_code": "E11.9"
+    },
+    {
+        "patient_id": "EHR003",
+        "age": 52,
+        "gender": "Male",
+        "symptoms": [
+            "chest pain"
+        ],
+        "diagnosis": "Hypertension",
+        "doctor_observations": "Consistently high BP readings.",
+        "vitals": {
+            "bp": "155/95",
+            "heart_rate": "92 bpm"
+        },
+        "icd10_code": "I10"
+    },
+    {
+        "patient_id": "EHR004",
+        "age": 30,
+        "gender": "Female",
+        "symptoms": [
+            "wheezing",
+            "shortness of breath"
+        ],
+        "diagnosis": "Asthma",
+        "doctor_observations": "Breathing difficulty during exertion.",
+        "vitals": {
+            "bp": "120/80",
+            "heart_rate": "85 bpm"
+        },
+        "icd10_code": "J45.909"
+    },
+    {
+        "patient_id": "EHR005",
+        "age": 50,
+        "gender": "Male",
+        "symptoms": [
+            "fever",
+            "body ache"
+        ],
+        "diagnosis": "COVID-19",
+        "doctor_observations": "Positive antigen test.",
+        "vitals": {
+            "bp": "135/88",
+            "heart_rate": "100 bpm"
+        },
+        "icd10_code": "U07.1"
+    },
+    {
+        "patient_id": "EHR006",
+        "age": 40,
+        "gender": "Female",
+        "symptoms": [
+            "headache",
+            "dizziness"
+        ],
+        "diagnosis": "Hypertension",
+        "doctor_observations": "High BP with stress factors.",
+        "vitals": {
+            "bp": "148/92",
+            "heart_rate": "90 bpm"
+        },
+        "icd10_code": "I10"
+    },
+    {
+        "patient_id": "EHR007",
+        "age": 28,
+        "gender": "Male",
+        "symptoms": [
+            "cough",
+            "cold"
+        ],
+        "diagnosis": "Pneumonia",
+        "doctor_observations": "Mild respiratory infection.",
+        "vitals": {
+            "bp": "118/76",
+            "heart_rate": "82 bpm"
+        },
+        "icd10_code": "J18.9"
+    },
+    {
+        "patient_id": "EHR008",
+        "age": 65,
+        "gender": "Female",
+        "symptoms": [
+            "fatigue",
+            "blurred vision"
+        ],
+        "diagnosis": "Diabetes",
+        "doctor_observations": "Poor glycemic control.",
+        "vitals": {
+            "bp": "145/90",
+            "heart_rate": "86 bpm"
+        },
+        "icd10_code": "E11.9"
+    },
+    {
+        "patient_id": "EHR009",
+        "age": 55,
+        "gender": "Male",
+        "symptoms": [
+            "shortness of breath"
+        ],
+        "diagnosis": "Asthma",
+        "doctor_observations": "Chronic asthma condition.",
+        "vitals": {
+            "bp": "125/82",
+            "heart_rate": "88 bpm"
+        },
+        "icd10_code": "J45.909"
+    },
+    {
+        "patient_id": "EHR010",
+        "age": 48,
+        "gender": "Female",
+        "symptoms": [
+            "fever",
+            "cough"
+        ],
+        "diagnosis": "COVID-19",
+        "doctor_observations": "RT-PCR positive.",
+        "vitals": {
+            "bp": "132/86",
+            "heart_rate": "96 bpm"
+        },
+        "icd10_code": "U07.1"
+    }
+]
