@@ -21,9 +21,8 @@ Contributors
 - Abhishek Kanoujiya
 - M.Navya Sri 
 - Naveen Sannena
-- Sneha Raghuwanshi
+- Sneha Raghuwanshiz
 - Bhawana
 - Lokesh
 - Naveen Kumar
-- Ayush 
 - Sai teja

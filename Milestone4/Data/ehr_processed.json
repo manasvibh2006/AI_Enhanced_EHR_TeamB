@@ -1,0 +1,282 @@
+{
+  "EHR_01": {
+    "clinical_note": "Chief Complaint: Headache\n\nHistory of Present Illness: Patient reports symptoms for several days. No severe complications noted.\n\nExamination Findings: Normal temperature, stable vitals, mild abnormal findings depending on symptom.\n\nDiagnosis: Asthma Exacerbation\n\nPlan: Rest, fluids, medication as required, follow up in 3 days if symptoms persist.",
+    "icd10": "J45.901"
+  },
+  "EHR_02": {
+    "clinical_note": "Chief Complaint: Fever\n\nHistory of Present Illness: High fever (103\u00b0F) for 2 days, difficulty swallowing, denies cough.\n\nExamination Findings: Elevated temperature, stable vitals, tonsillar exudates present.\n\nDiagnosis: Strep Throat\n\nPlan: Amoxicillin 500mg twice daily for 10 days, fluids, rest.",
+    "icd10": "J02.0"
+  },
+  "EHR_03": {
+    "clinical_note": "Chief Complaint: Knee Pain\n\nHistory of Present Illness: Chronic pain, worse in the morning, gradually worsening over 5 years.\n\nExamination Findings: Mild swelling noted in the right knee, limited range of motion, no warmth.\n\nDiagnosis: Osteoarthritis, right knee\n\nPlan: Physical therapy referral, over-the-counter NSAIDs for pain, follow-up in 4 weeks.",
+    "icd10": "M17.11"
+  },
+  "EHR_04": {
+    "clinical_note": "Chief Complaint: Shortness of Breath\n\nHistory of Present Illness: Sudden onset of difficulty breathing, associated with productive cough and chest pain.\n\nExamination Findings: Low oxygen saturation (92%), decreased breath sounds in lower left lobe, mild fever.\n\nDiagnosis: Community-acquired Pneumonia\n\nPlan: Azithromycin, respiratory support, admitted to hospital for observation and IV fluids.",
+    "icd10": "J18.9"
+  },
+  "EHR_05": {
+    "clinical_note": "Chief Complaint: Back Pain\n\nHistory of Present Illness: Lifted a heavy box yesterday, sudden sharp pain in lower back, radiates slightly into buttocks.\n\nExamination Findings: No motor deficits, positive straight leg raise, tenderness in lumbar paraspinal muscles.\n\nDiagnosis: Acute Lumbar Strain\n\nPlan: Rest, heat/ice application, muscle relaxants for 5 days, return to work restrictions.",
+    "icd10": "S39.012A"
+  },
+  "EHR_06": {
+    "clinical_note": "Chief Complaint: Rash\n\nHistory of Present Illness: New, intensely itchy rash appeared on forearms and neck after using a new laundry detergent.\n\nExamination Findings: Erythematous, vesicular rash consistent with external irritant exposure.\n\nDiagnosis: Contact Dermatitis, generalized\n\nPlan: Avoid irritant, prescribe topical corticosteroid, hydroxyzine for itching.",
+    "icd10": "L25.9"
+  },
+  "EHR_07": {
+    "clinical_note": "Chief Complaint: Abdominal Pain\n\nHistory of Present Illness: Severe cramping, nausea, vomiting started 12 hours ago, two episodes of diarrhea.\n\nExamination Findings: Mild diffuse tenderness upon palpation, guarding absent, hydration status slightly decreased.\n\nDiagnosis: Acute Gastroenteritis\n\nPlan: Clear liquid diet, anti-emetic medication PRN, strict monitoring for dehydration, return if symptoms worsen.",
+    "icd10": "A09"
+  },
+  "EHR_08": {
+    "clinical_note": "Chief Complaint: Chronic Fatigue\n\nHistory of Present Illness: Persistent tiredness for the last 6 months, difficulty concentrating, feeling cold often.\n\nExamination Findings: Vitals stable, pallor noted, otherwise unremarkable physical exam.\n\nDiagnosis: Iron Deficiency Anemia\n\nPlan: Order CBC and Ferritin levels, begin oral Iron supplementation (Ferrous Sulfate).",
+    "icd10": "D50.9"
+  },
+  "EHR_09": {
+    "clinical_note": "Chief Complaint: Eye Redness\n\nHistory of Present Illness: Redness, discharge, and feeling of grit in both eyes started 3 days ago. Highly contagious.\n\nExamination Findings: Bilateral conjunctival injection, purulent discharge, preauricular lymphadenopathy.\n\nDiagnosis: Bacterial Conjunctivitis\n\nPlan: Antibiotic eye drops (Tobramycin) for 7 days, strict hygiene, avoid school/daycare until discharge resolves.",
+    "icd10": "H10.33"
+  },
+  "EHR_10": {
+    "clinical_note": "Chief Complaint: Frequent Urination\n\nHistory of Present Illness: Increased frequency and urgency, especially at night, mild difficulty starting stream.\n\nExamination Findings: Digital Rectal Exam (DRE) reveals an enlarged, smooth prostate.\n\nDiagnosis: Benign Prostatic Hyperplasia (BPH)\n\nPlan: Order PSA and urinalysis, start Tamsulosin, follow up with Urology if no improvement in 6 weeks.",
+    "icd10": "N40.1"
+  },
+  "EHR_11": {
+    "clinical_note": "Chief Complaint: Sore Throat\n\nHistory of Present Illness: Gradual onset of throat discomfort, mild cough, no fever.\n\nExamination Findings: Mild pharyngeal erythema, negative rapid Strep test.\n\nDiagnosis: Acute Pharyngitis (viral)\n\nPlan: Symptomatic treatment: lozenges, fluids, warm salt water gargles.",
+    "icd10": "J02.9"
+  },
+  "EHR_12": {
+    "clinical_note": "Chief Complaint: Ear Pain\n\nHistory of Present Illness: Pain in the left ear for 24 hours, associated with muffled hearing.\n\nExamination Findings: Left tympanic membrane is erythematous and bulging, decreased mobility.\n\nDiagnosis: Acute Otitis Media, left ear\n\nPlan: Amoxicillin for 7 days, NSAIDs for pain, recheck in 10 days.",
+    "icd10": "H66.92"
+  },
+  "EHR_13": {
+    "clinical_note": "Chief Complaint: Heartburn\n\nHistory of Present Illness: Burning sensation in chest, worse after eating and when lying down, nocturnal symptoms present.\n\nExamination Findings: Abdominal exam benign, no epigastric tenderness.\n\nDiagnosis: Gastroesophageal Reflux Disease (GERD)\n\nPlan: Lifestyle modification (elevate head of bed, dietary changes), prescribe PPI (Omeprazole).",
+    "icd10": "K21.9"
+  },
+  "EHR_14": {
+    "clinical_note": "Chief Complaint: Depression\n\nHistory of Present Illness: Low mood, anhedonia, difficulty sleeping and concentrating for 4 months. Denies suicidal ideation.\n\nExamination Findings: Appearance appropriate, affect constricted, oriented x3.\n\nDiagnosis: Major Depressive Disorder, single episode, unspecified\n\nPlan: Start SSRI (Sertraline), referral to talk therapy, follow up in 2 weeks for medication check.",
+    "icd10": "F32.9"
+  },
+  "EHR_15": {
+    "clinical_note": "Chief Complaint: Ankle Sprain\n\nHistory of Present Illness: Twisted ankle while playing basketball 3 hours ago, immediate pain and swelling.\n\nExamination Findings: Moderate swelling and ecchymosis over lateral ankle, tender over ATF ligament, negative squeeze test.\n\nDiagnosis: Lateral Ankle Sprain (Grade II)\n\nPlan: R.I.C.E. protocol (Rest, Ice, Compression, Elevation), crutches for ambulation, orthopedic referral if no improvement.",
+    "icd10": "S93.409A"
+  },
+  "EHR_16": {
+    "clinical_note": "Chief Complaint: Elevated Blood Pressure\n\nHistory of Present Illness: Routine BP check showed 155/95mmHg, asymptomatic, non-compliant with diet.\n\nExamination Findings: BP 150/92mmHg today, cardiovascular exam normal.\n\nDiagnosis: Essential Primary Hypertension, uncontrolled\n\nPlan: Initiate ACE inhibitor (Lisinopril), strict diet and exercise counseling, monitor BP at home daily.",
+    "icd10": "I10"
+  },
+  "EHR_17": {
+    "clinical_note": "Chief Complaint: Acne Flare\n\nHistory of Present Illness: Increased number of cystic lesions on face and back over the past month.\n\nExamination Findings: Multiple comedones, papules, and cystic lesions on T-zone and upper back.\n\nDiagnosis: Acne Vulgaris, moderate\n\nPlan: Prescribe topical retinoid (Tretinoin), benzoyl peroxide wash, follow up in 6 weeks.",
+    "icd10": "L70.0"
+  },
+  "EHR_18": {
+    "clinical_note": "Chief Complaint: Tinea Pedis (Athlete's Foot)\n\nHistory of Present Illness: Persistent itching and peeling between toes, mild odor, started after using a public gym shower.\n\nExamination Findings: Maceration and scaling noted between 4th and 5th toes bilaterally.\n\nDiagnosis: Tinea Pedis\n\nPlan: Apply topical antifungal cream (Clotrimazole) twice daily, keep feet dry, wear sandals in public showers.",
+    "icd10": "B35.1"
+  },
+  "EHR_19": {
+    "clinical_note": "Chief Complaint: Vertigo\n\nHistory of Present Illness: Sudden onset of spinning dizziness when turning head quickly, lasts about 30 seconds.\n\nExamination Findings: Positive Dix-Hallpike maneuver (nystagmus noted).\n\nDiagnosis: Benign Paroxysmal Positional Vertigo (BPPV)\n\nPlan: Perform Epley maneuver in office, provide home instructions for Epley, return if symptoms persist.",
+    "icd10": "H81.10"
+  },
+  "EHR_20": {
+    "clinical_note": "Chief Complaint: Diaper Rash\n\nHistory of Present Illness: Severe redness and irritation in diaper area for 3 days, refractory to routine cream.\n\nExamination Findings: Confluent erythema in the gluteal fold with satellite lesions suggestive of Candida.\n\nDiagnosis: Candidal Diaper Dermatitis\n\nPlan: Apply Nystatin topical powder, frequent diaper changes, use barrier cream (Zinc Oxide).",
+    "icd10": "B37.2"
+  },
+  "EHR_21": {
+    "clinical_note": "Chief Complaint: Chest Pain\n\nHistory of Present Illness: Intermittent, dull ache in the chest, non-exertional, denies diaphoresis or shortness of breath.\n\nExamination Findings: EKG normal, vitals stable, pulmonary exam clear.\n\nDiagnosis: Non-cardiac Chest Pain (Rule out Musculoskeletal)\n\nPlan: Order Chest X-ray, consider trial of anti-inflammatory medication, return immediately if pain changes or worsens.",
+    "icd10": "R07.89"
+  },
+  "EHR_22": {
+    "clinical_note": "Chief Complaint: Migraine\n\nHistory of Present Illness: Severe, pulsating headache with aura (flashing lights), nausea, sensitive to light and sound.\n\nExamination Findings: Normal neurological exam, vitals stable.\n\nDiagnosis: Migraine with aura, intractable\n\nPlan: Prescribe sumatriptan for abortive therapy, discuss prophylactic medication options (Beta Blocker).",
+    "icd10": "G43.109"
+  },
+  "EHR_23": {
+    "clinical_note": "Chief Complaint: Cough\n\nHistory of Present Illness: Dry, hacking cough for 1 week, worse at night, history of mild asthma.\n\nExamination Findings: Mild wheezing heard on forced expiration, otherwise clear lung fields.\n\nDiagnosis: Acute Bronchitis\n\nPlan: Symptomatic care (dextromethorphan PRN), monitor for signs of secondary bacterial infection.",
+    "icd10": "J20.9"
+  },
+  "EHR_24": {
+    "clinical_note": "Chief Complaint: Hypertension Follow-up\n\nHistory of Present Illness: Has been taking Amlodipine for 3 months, reports excellent compliance.\n\nExamination Findings: BP 135/85mmHg, vitals stable.\n\nDiagnosis: Essential Primary Hypertension, well controlled\n\nPlan: Continue current medication dosage, lifestyle maintenance, recheck BP in 6 months.",
+    "icd10": "I10"
+  },
+  "EHR_25": {
+    "clinical_note": "Chief Complaint: Urinary Tract Infection (UTI)\n\nHistory of Present Illness: Dysuria, frequency, urgency, no fever or flank pain.\n\nExamination Findings: Mild suprapubic tenderness, clean-catch urine sample obtained.\n\nDiagnosis: Acute Cystitis (uncomplicated UTI)\n\nPlan: Prescribe Nitrofurantoin for 5 days, encourage fluid intake, send urine culture for confirmation.",
+    "icd10": "N30.00"
+  },
+  "EHR_26": {
+    "clinical_note": "Chief Complaint: Pilonidal Cyst\n\nHistory of Present Illness: Painful lump noticed in the gluteal cleft for 4 days, recently became red and swollen.\n\nExamination Findings: Tender, fluctuant mass in the sacrococcygeal area, signs of localized infection.\n\nDiagnosis: Pilonidal Cyst with abscess\n\nPlan: Incision and drainage (I&D) performed in office, pack wound, Keflex for 7 days, follow up for wound check.",
+    "icd10": "L05.01"
+  },
+  "EHR_27": {
+    "clinical_note": "Chief Complaint: Hypothyroidism Follow-up\n\nHistory of Present Illness: Taking Levothyroxine 50ug, reports fatigue is improved but still present.\n\nExamination Findings: Vitals stable, neck exam negative for masses, TSH ordered.\n\nDiagnosis: Acquired Hypothyroidism, suboptimally controlled\n\nPlan: Adjust Levothyroxine dosage to 75ug daily, recheck TSH in 6 weeks, counsel on adherence.",
+    "icd10": "E03.9"
+  },
+  "EHR_28": {
+    "clinical_note": "Chief Complaint: Acne\n\nHistory of Present Illness: Persistent blackheads and whiteheads on the forehead and nose, not responding to drugstore washes.\n\nExamination Findings: Open and closed comedones noted on the forehead and bridge of the nose.\n\nDiagnosis: Acne Vulgaris, comedonal\n\nPlan: Begin topical Salicylic Acid wash, start Tretinoin nightly, emphasize not picking lesions.",
+    "icd10": "L70.0"
+  },
+  "EHR_29": {
+    "clinical_note": "Chief Complaint: Annual Physical\n\nHistory of Present Illness: Screening lab work completed, reports no new complaints, compliant with medications.\n\nExamination Findings: Full exam normal, BP 120/78mmHg, BMI 24.5.\n\nDiagnosis: Encounter for routine examination\n\nPlan: Continue current healthy habits, schedule mammogram and colonoscopy screening per guidelines.",
+    "icd10": "Z00.00"
+  },
+  "EHR_30": {
+    "clinical_note": "Chief Complaint: Allergic Rhinitis\n\nHistory of Present Illness: Persistent nasal congestion, sneezing, and watery eyes, worse during spring season.\n\nExamination Findings: Nasal turbinates are pale and boggy, clear rhinorrhea present.\n\nDiagnosis: Allergic Rhinitis due to pollen\n\nPlan: Start non-sedating antihistamine (Cetirizine) daily, use Fluticasone nasal spray, avoid outdoor exposure on high pollen days.",
+    "icd10": "J30.1"
+  },
+  "EHR_31": {
+    "clinical_note": "Chief Complaint: Insomnia\n\nHistory of Present Illness: Difficulty falling asleep and maintaining sleep, waking up several times per night.\n\nExamination Findings: Normal neurological exam, denies depression or anxiety symptoms as primary complaint.\n\nDiagnosis: Insomnia, unspecified\n\nPlan: Sleep hygiene counseling (consistent routine, limit screens), prescribe low-dose Trazodone PRN.",
+    "icd10": "G47.00"
+  },
+  "EHR_32": {
+    "clinical_note": "Chief Complaint: Laceration\n\nHistory of Present Illness: Fell off bicycle and sustained a cut to the right arm 30 minutes ago.\n\nExamination Findings: 2cm clean, non-jagged laceration over the right forearm, bleeding controlled.\n\nDiagnosis: Laceration without foreign body, right forearm\n\nPlan: Clean wound, apply 5 sutures, apply dressing, tetanus status confirmed up-to-date, follow up in 10 days for suture removal.",
+    "icd10": "S51.801A"
+  },
+  "EHR_33": {
+    "clinical_note": "Chief Complaint: Premenstrual Syndrome (PMS)\n\nHistory of Present Illness: Monthly cycles of irritability, bloating, and breast tenderness starting 7-10 days before menses.\n\nExamination Findings: Pelvic exam deferred, breast exam negative for masses.\n\nDiagnosis: Premenstrual Tension Syndrome\n\nPlan: Recommend regular aerobic exercise, dietary changes (less salt/caffeine), consider oral contraceptives for symptom management.",
+    "icd10": "N94.3"
+  },
+  "EHR_34": {
+    "clinical_note": "Chief Complaint: Tinnitus\n\nHistory of Present Illness: Persistent ringing sound in the ears, worse in quiet environments, denies hearing loss.\n\nExamination Findings: Audiometry pending, Otoscopy normal.\n\nDiagnosis: Tinnitus, unilateral, left ear\n\nPlan: Avoid loud noises, reduce caffeine intake, ENT referral for specialized evaluation.",
+    "icd10": "H93.12"
+  },
+  "EHR_35": {
+    "clinical_note": "Chief Complaint: Foreign Body in Skin\n\nHistory of Present Illness: Stepped on a small piece of glass or splinter in the foot two days ago, slight discomfort remains.\n\nExamination Findings: Small, dark, pinpoint object visible under the skin surface of the plantar foot.\n\nDiagnosis: Foreign body (splinter) in the skin, right foot\n\nPlan: Local anesthesia, sterile removal of foreign body with tweezers, application of antibiotic ointment and bandage.",
+    "icd10": "T14.0XXA"
+  },
+  "EHR_36": {
+    "clinical_note": "Chief Complaint: Weight Management\n\nHistory of Present Illness: Seeking advice for 20kg weight loss, motivated to make lifestyle changes.\n\nExamination Findings: BMI 32 (Obese Class I), vitals stable.\n\nDiagnosis: Obesity, Class I\n\nPlan: Detailed nutrition counseling, referral to dietician, daily exercise goal of 30 minutes, follow up in 1 month.",
+    "icd10": "E66.01"
+  },
+  "EHR_37": {
+    "clinical_note": "Chief Complaint: Constipation\n\nHistory of Present Illness: Hard, infrequent stools (once every 3-4 days), associated with abdominal discomfort.\n\nExamination Findings: Soft abdomen, bowel sounds normal, no mass palpable.\n\nDiagnosis: Functional Constipation\n\nPlan: Increase fiber and fluid intake, start Polyethylene Glycol (MiraLAX) daily, monitor stools.",
+    "icd10": "K59.00"
+  },
+  "EHR_38": {
+    "clinical_note": "Chief Complaint: Post-Surgical Follow-up\n\nHistory of Present Illness: Status post appendectomy 1 week ago, reports mild incisional pain.\n\nExamination Findings: Incision site clean, dry, and intact (CDI), mild tenderness to palpation adjacent to incision.\n\nDiagnosis: Post-procedural pain\n\nPlan: Continue pain medication PRN (Ibuprofen), monitor for signs of infection (fever, discharge), follow up in 2 weeks.",
+    "icd10": "Z09"
+  },
+  "EHR_39": {
+    "clinical_note": "Chief Complaint: Hyperlipidemia\n\nHistory of Present Illness: Initial lab work showed elevated total cholesterol and LDL.\n\nExamination Findings: Vitals stable, cardiovascular exam normal, BMI 26.\n\nDiagnosis: Pure Hypercholesterolemia\n\nPlan: Begin statin therapy (Atorvastatin 10mg), low-cholesterol diet counseling, repeat lipid panel in 3 months.",
+    "icd10": "E78.00"
+  },
+  "EHR_40": {
+    "clinical_note": "Chief Complaint: Peripheral Neuropathy\n\nHistory of Present Illness: Numbness and tingling in both feet, gradually worsening, history of long-standing diabetes.\n\nExamination Findings: Decreased vibratory sensation and monofilament test failure in bilateral feet.\n\nDiagnosis: Diabetic Polyneuropathy\n\nPlan: Optimize blood glucose control (HbA1c goal <7.0), prescribe Gabapentin for nerve pain, podiatry referral.",
+    "icd10": "E11.42"
+  },
+  "EHR_41": {
+    "clinical_note": "Chief Complaint: Minor Burn\n\nHistory of Present Illness: Touched a hot curling iron on the forearm 1 hour ago, blister formed.\n\nExamination Findings: 1cm partial thickness burn (second degree) on the right forearm, intact blister, no signs of infection.\n\nDiagnosis: Second degree burn, forearm\n\nPlan: Apply silver sulfadiazine cream, sterile dressing change daily, pain control with NSAIDs, return if blister breaks or signs of infection appear.",
+    "icd10": "T22.21XA"
+  },
+  "EHR_42": {
+    "clinical_note": "Chief Complaint: Sinusitis\n\nHistory of Present Illness: 10 days of nasal congestion, facial pain, post-nasal drip, and mild fever.\n\nExamination Findings: Maxillary and frontal sinus tenderness, mucopurulent discharge present.\n\nDiagnosis: Acute Bacterial Sinusitis\n\nPlan: Prescribe Amoxicillin/Clavulanate for 7 days, nasal saline rinse, decongestant PRN.",
+    "icd10": "J01.90"
+  },
+  "EHR_43": {
+    "clinical_note": "Chief Complaint: Chronic Joint Pain\n\nHistory of Present Illness: Generalized achiness in multiple large joints (shoulders, hands), morning stiffness lasting over an hour.\n\nExamination Findings: Symmetrical swelling and tenderness of MCP and PIP joints, rheumatoid factor ordered.\n\nDiagnosis: Rheumatoid Arthritis, suspected\n\nPlan: Start Methotrexate pending lab results, rheumatology referral, anti-inflammatory medication (Celecoxib).",
+    "icd10": "M06.9"
+  },
+  "EHR_44": {
+    "clinical_note": "Chief Complaint: Varicella Exposure\n\nHistory of Present Illness: Exposed to a sibling with chickenpox 3 days ago, patient is unvaccinated.\n\nExamination Findings: Asymptomatic today, skin clear.\n\nDiagnosis: Exposure to Varicella\n\nPlan: Isolate patient from school/daycare for 21 days, monitor for rash/fever, counsel parents on signs and symptoms.",
+    "icd10": "Z20.82"
+  },
+  "EHR_45": {
+    "clinical_note": "Chief Complaint: Cataract Evaluation\n\nHistory of Present Illness: Gradual blurring of vision over the past year, especially difficulty driving at night.\n\nExamination Findings: Slit-lamp exam reveals opacification of the lens bilaterally.\n\nDiagnosis: Age-related Cataract, bilateral\n\nPlan: Referral to ophthalmology for surgical consultation (phacoemulsification), counsel on low-light safety.",
+    "icd10": "H25.9"
+  },
+  "EHR_46": {
+    "clinical_note": "Chief Complaint: Anxiety\n\nHistory of Present Illness: Frequent panic attacks, excessive worry, avoidance of social situations for 8 months.\n\nExamination Findings: Tremulous, tearful during interview, heart rate elevated, otherwise normal exam.\n\nDiagnosis: Generalized Anxiety Disorder (GAD)\n\nPlan: Cognitive Behavioral Therapy (CBT) referral, start Sertraline low dose, schedule weekly check-ins.",
+    "icd10": "F41.1"
+  },
+  "EHR_47": {
+    "clinical_note": "Chief Complaint: Vomiting\n\nHistory of Present Illness: Several episodes of non-bloody, non-bilious vomiting over the last 6 hours, denies diarrhea.\n\nExamination Findings: Mild tachycardia, dry mucous membranes, irritable, mild abdominal distension.\n\nDiagnosis: Dehydration due to Acute Vomiting\n\nPlan: Oral rehydration solution (ORS) every 5 minutes, monitor urine output, anti-emetic medication (Ondansetron) if needed.",
+    "icd10": "E86.0"
+  },
+  "EHR_48": {
+    "clinical_note": "Chief Complaint: Thyroid Nodule\n\nHistory of Present Illness: Found a small lump in the neck during self-exam. Asymptomatic.\n\nExamination Findings: Palpable firm, non-tender nodule in the right lobe of the thyroid.\n\nDiagnosis: Thyroid Nodule, size 1cm\n\nPlan: Order thyroid function tests (TSH) and ultrasound of the thyroid, referral to Endocrinology for Fine-Needle Aspiration (FNA).",
+    "icd10": "E07.9"
+  },
+  "EHR_49": {
+    "clinical_note": "Chief Complaint: Erectile Dysfunction\n\nHistory of Present Illness: Difficulty achieving and maintaining erection sufficient for intercourse for 3 months. Denies psychological stress.\n\nExamination Findings: Genital exam normal, vitals stable, initial lab work (Testosterone, lipids) pending.\n\nDiagnosis: Male Erectile Dysfunction\n\nPlan: Prescribe a PDE-5 inhibitor (Sildenafil) PRN, counsel on lifestyle factors (smoking, alcohol).",
+    "icd10": "N53.9"
+  },
+  "EHR_50": {
+    "clinical_note": "Chief Complaint: Osteoporosis Screening\n\nHistory of Present Illness: Post-menopausal female, seeking baseline screening, no prior fractures.\n\nExamination Findings: Exam normal, vitals stable, review of risk factors positive (low calcium intake).\n\nDiagnosis: Encounter for osteoporosis screening\n\nPlan: Order DEXA scan, counsel on Calcium and Vitamin D supplementation, discuss bisphosphonate therapy if DEXA positive.",
+    "icd10": "Z13.820"
+  },
+  "EHR_51": {
+    "clinical_note": "Chief Complaint: Concussion\n\nHistory of Present Illness: Hit head playing soccer, brief loss of consciousness, headache, confusion, and nausea since injury.\n\nExamination Findings: Positive Romberg test, slightly slurred speech, GCS 15.\n\nDiagnosis: Concussion with loss of consciousness\n\nPlan: Strict cognitive and physical rest, monitor for worsening symptoms (severe vomiting, seizures), written discharge instructions provided.",
+    "icd10": "S06.9X9A"
+  },
+  "EHR_52": {
+    "clinical_note": "Chief Complaint: Recurrent Yeast Infection\n\nHistory of Present Illness: Three episodes of vaginal itching and thick discharge in the past year, resistant to OTC treatments.\n\nExamination Findings: Thick, curdy white discharge, vulvar erythema, pH normal.\n\nDiagnosis: Recurrent Vulvovaginal Candidiasis\n\nPlan: Prescribe Fluconazole 150mg STAT and repeat in 3 days, counsel on underlying risk factors (diabetes screening ordered).",
+    "icd10": "B37.3"
+  },
+  "EHR_53": {
+    "clinical_note": "Chief Complaint: Gout Flare\n\nHistory of Present Illness: Sudden, excruciating pain and swelling in the right great toe overnight. Denies trauma.\n\nExamination Findings: Right MTP joint is hot, red, and exquisitely tender, unable to bear weight.\n\nDiagnosis: Acute Gouty Arthritis\n\nPlan: Colchicine for acute attack, NSAIDs, start Allopurinol after flare resolves, strict diet modification (avoid purines).",
+    "icd10": "M10.071"
+  },
+  "EHR_54": {
+    "clinical_note": "Chief Complaint: Elevated Cholesterol Follow-up\n\nHistory of Present Illness: Non-compliant with prescribed statin due to muscle aches, seeking alternative.\n\nExamination Findings: Vitals stable, muscular exam unremarkable.\n\nDiagnosis: Hypercholesterolemia, non-compliant due to side effects\n\nPlan: Switch medication to Ezetimibe, counsel on diet and exercise, recheck lipid panel in 8 weeks.",
+    "icd10": "E78.00"
+  },
+  "EHR_55": {
+    "clinical_note": "Chief Complaint: Dental Pain\n\nHistory of Present Illness: Severe pain in the lower right molar that is constant and throbbing, radiating to the jaw.\n\nExamination Findings: Visible deep carious lesion on the mandibular right first molar, percussion tenderness.\n\nDiagnosis: Dental Caries with Pulpitis\n\nPlan: Amoxicillin for cellulitis prophylaxis, referral to Endodontist for root canal evaluation.",
+    "icd10": "K04.0"
+  },
+  "EHR_56": {
+    "clinical_note": "Chief Complaint: Chronic Headaches\n\nHistory of Present Illness: Tension-type headaches 4-5 times per week, bilateral, dull pressure, exacerbated by stress.\n\nExamination Findings: No focal neurological deficits, mild tenderness of trapezius muscles.\n\nDiagnosis: Chronic Tension-type Headache\n\nPlan: Stress management techniques, referral for massage therapy, trial of muscle relaxant (Cyclobenzaprine).",
+    "icd10": "G44.209"
+  },
+  "EHR_57": {
+    "clinical_note": "Chief Complaint: Eczema Flare\n\nHistory of Present Illness: Areas of scaly, dry, intensely itchy skin on the inner elbows and behind the knees, ongoing.\n\nExamination Findings: Lichenification and patchy erythema in flexural creases, chronic appearance.\n\nDiagnosis: Atopic Dermatitis, chronic\n\nPlan: Emollients daily, medium-potency topical steroid cream for flares, avoidance of long hot showers.",
+    "icd10": "L20.9"
+  },
+  "EHR_58": {
+    "clinical_note": "Chief Complaint: Sprained Finger\n\nHistory of Present Illness: Jammed finger catching a ball at recess, pain and swelling in the middle finger.\n\nExamination Findings: Swelling and tenderness over the PIP joint of the left middle finger, good distal neurovascular function.\n\nDiagnosis: Sprain of the PIP joint, middle finger\n\nPlan: Buddy taping to adjacent finger, ice, elevation, NSAIDs for pain, follow up if swelling does not resolve in 7 days.",
+    "icd10": "S63.609A"
+  },
+  "EHR_59": {
+    "clinical_note": "Chief Complaint: Annual Flu Vaccine\n\nHistory of Present Illness: Seeking routine seasonal influenza vaccination, no contraindications.\n\nExamination Findings: Vitals stable, no acute findings.\n\nDiagnosis: Encounter for routine influenza vaccination\n\nPlan: Administer quadrivalent inactivated influenza vaccine (IIV4), observe for 15 minutes post-injection.",
+    "icd10": "Z23"
+  },
+  "EHR_60": {
+    "clinical_note": "Chief Complaint: Dizziness\n\nHistory of Present Illness: Feeling lightheaded upon standing quickly from sitting, especially in the mornings.\n\nExamination Findings: Orthostatic blood pressure check shows a 25mmHg drop in systolic pressure.\n\nDiagnosis: Orthostatic Hypotension\n\nPlan: Increase fluid and salt intake (if not hypertensive), counsel on slow positional changes, review medication list for offending agents.",
+    "icd10": "I95.1"
+  },
+  "EHR_61": {
+    "clinical_note": "Chief Complaint: Smoking Cessation\n\nHistory of Present Illness: Patient reports readiness to quit smoking, currently smoking 1 pack per day for 15 years.\n\nExamination Findings: Lung auscultation reveals mild expiratory wheezes.\n\nDiagnosis: Tobacco Use Disorder\n\nPlan: Prescribe nicotine replacement therapy (patch/gum), referral to quit line, schedule follow up in 1 week.",
+    "icd10": "F17.210"
+  },
+  "EHR_62": {
+    "clinical_note": "Chief Complaint: Immunization Visit\n\nHistory of Present Illness: Due for 4-year well-child visit immunizations (DTaP, IPV, MMR, Varicella).\n\nExamination Findings: Exam normal, patient healthy.\n\nDiagnosis: Routine DTaP/IPV/MMR/Varicella immunization\n\nPlan: Administer required vaccinations, provide vaccine record to parent, schedule next check-up in 1 year.",
+    "icd10": "Z23"
+  },
+  "EHR_63": {
+    "clinical_note": "Chief Complaint: Chronic Cough\n\nHistory of Present Illness: Persistent dry cough for 3 months, worse at night and after meals, denies sputum.\n\nExamination Findings: Pulmonary exam clear, CXR is normal.\n\nDiagnosis: Cough due to Post-nasal Drip\n\nPlan: Trial of a first-generation antihistamine/decongestant, nasal saline irrigation, re-evaluate in 2 weeks.",
+    "icd10": "R05"
+  },
+  "EHR_64": {
+    "clinical_note": "Chief Complaint: Contraception\n\nHistory of Present Illness: Seeking highly effective, long-acting reversible contraception (LARC).\n\nExamination Findings: Pelvic exam deferred, breast exam normal.\n\nDiagnosis: Encounter for contraceptive management\n\nPlan: Discuss options (IUD vs. Implant), schedule insertion appointment for Mirena IUD next month.",
+    "icd10": "Z30.011"
+  },
+  "EHR_65": {
+    "clinical_note": "Chief Complaint: Fatigue (Cancer Follow-up)\n\nHistory of Present Illness: Status post chemotherapy for colon cancer 6 months ago, reports mild lingering fatigue.\n\nExamination Findings: Vitals stable, no lymphadenopathy, abdomen soft, no masses.\n\nDiagnosis: Personal history of malignant neoplasm of colon\n\nPlan: Order comprehensive blood work (CBC, metabolic panel), continue surveillance schedule, advise light exercise.",
+    "icd10": "Z85.038"
+  },
+  "EHR_66": {
+    "clinical_note": "Chief Complaint: Ingrown Toenail\n\nHistory of Present Illness: Pain and redness on the lateral aspect of the right great toe, started 3 days ago.\n\nExamination Findings: Erythema, swelling, and purulent drainage present at the lateral border of the right hallux.\n\nDiagnosis: Ingrown toenail with infection\n\nPlan: Digital block and partial nail plate excision performed, oral antibiotic (Keflex) for 7 days, warm soaks.",
+    "icd10": "L60.0"
+  },
+  "EHR_67": {
+    "clinical_note": "Chief Complaint: Sprained Wrist\n\nHistory of Present Illness: Fell onto outstretched hand 4 hours ago, severe pain and swelling over the wrist.\n\nExamination Findings: Diffuse swelling over the wrist, tenderness over the distal radius, X-ray ordered.\n\nDiagnosis: Sprain of the wrist\n\nPlan: Wrist splint application, R.I.C.E. protocol, pain management with NSAIDs, follow up with imaging results.",
+    "icd10": "S63.509A"
+  },
+  "EHR_68": {
+    "clinical_note": "Chief Complaint: Hemorrhoids\n\nHistory of Present Illness: Painful external hemorrhoid, mild bleeding with bowel movements for 1 week.\n\nExamination Findings: External thrombosed hemorrhoid noted at the 7 o'clock position.\n\nDiagnosis: Thrombosed external hemorrhoids\n\nPlan: Topical hydrocortisone cream, sitz baths 3 times daily, stool softeners, high-fiber diet.",
+    "icd10": "I84.3"
+  },
+  "EHR_69": {
+    "clinical_note": "Chief Complaint: Contusion (Bruise)\n\nHistory of Present Illness: Hit leg on a table corner yesterday, large bruise present, no functional impairment.\n\nExamination Findings: Large ecchymosis on the anterior left thigh, no underlying mass or crepitus.\n\nDiagnosis: Contusion of left thigh\n\nPlan: Ice PRN for 24 hours, monitor for any worsening pain or restricted movement, reassurance.",
+    "icd10": "S70.12XA"
+  },
+  "EHR_70": {
+    "clinical_note": "Chief Complaint: Chronic Kidney Disease Follow-up\n\nHistory of Present Illness: Stage 3 CKD, compliant with diet and medications, reports no new symptoms.\n\nExamination Findings: BP 130/80mmHg, no peripheral edema.\n\nDiagnosis: Chronic Kidney Disease, Stage 3\n\nPlan: Continue low-salt, low-protein diet, review blood pressure targets, recheck kidney function labs in 3 months.",
+    "icd10": "N18.3"
+  }
+}
