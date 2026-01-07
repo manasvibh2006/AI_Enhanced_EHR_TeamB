@@ -830,7 +830,7 @@ def dashboard_page():
         current_dir = os.path.dirname(os.path.abspath(__file__))
         image_dir = os.path.join(current_dir, "Images", "ehr_processedimages")
         if os.path.exists(image_dir):
-            image_files = [f for f in os.listdir(image_dir) if f.startswith(f"{patient_id}.")]
+            image_files = [f for f in os.listdir(image_dir) if f.lower().startswith(patient_id.lower())]
             has_image = len(image_files) > 0
         else:
             has_image = False
@@ -928,8 +928,9 @@ def dashboard_page():
     with tab2:
         current_dir = os.path.dirname(os.path.abspath(__file__))
         image_dir = os.path.join(current_dir, "Images", "ehr_processedimages")
+        
         if os.path.exists(image_dir):
-            image_files = [f for f in os.listdir(image_dir) if f.startswith(f"{patient_id}.")]
+            image_files = [f for f in os.listdir(image_dir) if f.lower().startswith(patient_id.lower())]
             image_path = os.path.join(image_dir, image_files[0]) if image_files else None
         else:
             image_path = None
@@ -950,7 +951,7 @@ def dashboard_page():
             with col2:
                 try:
                     image = Image.open(image_path)
-                    st.image(image, use_container_width=True)
+                    st.image(image, use_column_width=True)
                     
                     file_ext = os.path.splitext(image_path)[1].upper().replace('.', '')
                     st.markdown(f"""
@@ -978,7 +979,10 @@ def dashboard_page():
         <div style="text-align: center; padding: 4rem 2rem; background: #f8fafc; border-radius: 12px; border: 2px dashed #d1d5db;">
             <div style="font-size: 4rem; margin-bottom: 1rem;">🖼️</div>
             <h3 style="color: #374151; margin: 0;">No Image Available</h3>
-            <p style="color: #6b7280; margin-top: 0.5rem;">Enhanced medical image will appear here once linked to this patient record.</p>
+            <p style="color: #6b7280; margin-top: 0.5rem;">Medical imaging files are currently being processed. Please check back soon.</p>
+            <p style="color: #9ca3af; margin-top: 1rem; font-size: 0.85rem;">
+                <strong>Note:</strong> Images will be automatically displayed once available for this patient.
+            </p>
         </div>
         """, unsafe_allow_html=True)
     
