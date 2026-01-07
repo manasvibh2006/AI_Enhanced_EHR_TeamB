@@ -699,6 +699,9 @@ def dashboard_page():
             return json.load(f)
     
     ehr_data = load_ehr()
+    if not ehr_data:
+        st.error("No patient data available. Please check the data file.")
+        st.stop()
     patient_ids = sorted(ehr_data.keys())
     
     # Sidebar
@@ -945,11 +948,12 @@ def dashboard_page():
         if image_path and os.path.exists(image_path):
             col1, col2, col3 = st.columns([1, 3, 1])
             with col2:
-                image = Image.open(image_path)
-                st.image(image, use_column_width=True)
-                
-                file_ext = os.path.splitext(image_path)[1].upper().replace('.', '')
-                st.markdown(f"""
+                try:
+                    image = Image.open(image_path)
+                    st.image(image, use_container_width=True)
+                    
+                    file_ext = os.path.splitext(image_path)[1].upper().replace('.', '')
+                    st.markdown(f"""
             <div style="background: #f8fafc; padding: 1rem; border-radius: 8px; margin-top: 1rem;">
                 <div style="display: flex; justify-content: space-around; text-align: center;">
                     <div>
@@ -967,6 +971,8 @@ def dashboard_page():
                 </div>
             </div>
             """, unsafe_allow_html=True)
+                except Exception as e:
+                    st.error(f"Error loading image: {str(e)}")
         else:
             st.markdown("""
         <div style="text-align: center; padding: 4rem 2rem; background: #f8fafc; border-radius: 12px; border: 2px dashed #d1d5db;">
