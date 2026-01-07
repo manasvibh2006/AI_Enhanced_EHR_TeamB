@@ -830,7 +830,7 @@ def dashboard_page():
         current_dir = os.path.dirname(os.path.abspath(__file__))
         image_dir = os.path.join(current_dir, "Images", "ehr_processedimages")
         if os.path.exists(image_dir):
-            image_files = [f for f in os.listdir(image_dir) if f.startswith(f"{patient_id}.")]
+            image_files = [f for f in os.listdir(image_dir) if f.lower().startswith(patient_id.lower())]
             has_image = len(image_files) > 0
         else:
             has_image = False
@@ -929,7 +929,7 @@ def dashboard_page():
         current_dir = os.path.dirname(os.path.abspath(__file__))
         image_dir = os.path.join(current_dir, "Images", "ehr_processedimages")
         if os.path.exists(image_dir):
-            image_files = [f for f in os.listdir(image_dir) if f.startswith(f"{patient_id}.")]
+            image_files = [f for f in os.listdir(image_dir) if f.lower().startswith(patient_id.lower())]
             image_path = os.path.join(image_dir, image_files[0]) if image_files else None
         else:
             image_path = None
