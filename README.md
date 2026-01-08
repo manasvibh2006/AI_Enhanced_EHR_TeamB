@@ -13,7 +13,7 @@ This project revolutionizes traditional Electronic Health Records (EHR) by integ
 
 ## 🚀 Live Deployment
 
-Access the application here: **[AI-Enhanced EHR System](https://aienhancedehrteamb-tjlu7ezaqcy94sgwnecrhc.streamlit.app/)**
+Access the application here: **[AI-Enhanced EHR System](https://career-advisory-gbj6vjfab5ndwpudxpbby3.streamlit.app/#no-image-available)**
 
 ## ✨ Core Features
 
