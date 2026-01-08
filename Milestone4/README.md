@@ -80,7 +80,7 @@ cd Milestone4
 ### Step 3: Run the Application
 streamlit run app.py
 ### Step 4: Access via Browser
-https://aienhancedehrteamb-tjlu7ezaqcy94sgwnecrhc.streamlit.app/
+https://career-advisory-gbj6vjfab5ndwpudxpbby3.streamlit.app/#no-image-available
 
 # Milestone Status
 Milestone 1: Data Collection and Preprocessing – Completed
