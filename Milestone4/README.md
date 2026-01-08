@@ -80,7 +80,7 @@ cd Milestone4
 ### Step 3: Run the Application
 streamlit run app.py
 ### Step 4: Access via Browser
-http://localhost:8501
+https://aienhancedehrteamb-tjlu7ezaqcy94sgwnecrhc.streamlit.app/
 
 # Milestone Status
 Milestone 1: Data Collection and Preprocessing – Completed
@@ -114,3 +114,4 @@ Sai Teja
 Milestone 4 demonstrates the integration of enhanced medical imaging and structured clinical data into a Streamlit‑based EHR dashboard.
 
 The implementation consolidates outputs from earlier milestones into a unified interface, completing the end‑to‑end workflow of the system.
+
