@@ -321,9 +321,8 @@ def landing_page():
     st.markdown("<div class='cta-container'>", unsafe_allow_html=True)
     col1, col2, col3 = st.columns([1, 1, 1])
     with col2:
-        if st.button("🚀 Access Patient Portal", key="cta_btn", use_column_width=True):
+        if st.button("🚀 Access Patient Portal", key="cta_btn", use_container_width=True):
             go_to_dashboard()
-            st.rerun()
     st.markdown("</div>", unsafe_allow_html=True)
     
     # Key Features
@@ -716,7 +715,7 @@ def dashboard_page():
         st.markdown("---")
         
         # Back to Landing Button
-        if st.button("← Back to Landing", key="back_btn", use_column_width=True):
+        if st.button("← Back to Landing", key="back_btn", use_container_width=True):
             go_to_landing()
             st.rerun()
         
@@ -951,7 +950,7 @@ def dashboard_page():
             with col2:
                 try:
                     image = Image.open(image_path)
-                    st.image(image, use_column_width=True)
+                    st.image(image, use_container_width=True)
                     
                     file_ext = os.path.splitext(image_path)[1].upper().replace('.', '')
                     st.markdown(f"""
